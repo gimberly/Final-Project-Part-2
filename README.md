@@ -1,6 +1,9 @@
-# Flask-Docker-MySQL Template
+#Project Description
+This project is an homework assignment on how to get Pycharm setup with Docker,Flask,MYSQL
+#Postman ScreenShot
+![postman_request_output](screenshots/postman.png)
 
-This project can be used to run a basic flask app with MySQL as DB using docker-compose.
+
 
 ## Getting Started
 
